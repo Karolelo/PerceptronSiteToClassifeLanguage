@@ -1,0 +1,7 @@
+L'idée générale, appuyée sur les propriétés de la congruence, consiste à vérifier le résultat d'un calcul en en effectuant une version simplifiée modulo n : si les deux résultats ne sont pas congrus modulo n, c'est qu'au moins un des deux calculs est faux. Le procédé est efficace dans la mesure où le calcul modulo n est simple, rapide et à faible risque d'erreur. C'est pourquoi, en base 10, on se limite généralement à la preuve par neuf et parfois à la preuve par onze3.
+
+Mais qu'en est-il dans d'autres bases ? On comprend rapidement qu'en base N on peut utiliser la preuve par N-1.
+
+Ainsi en base 16, on peut utiliser la preuve par quinze. Accessoirement, ceci donne un test de divisibilité rapide par 5 et par 3.
+
+Un nombre représenté en base 10 peut facilement être analysé en base 100, en regroupant ses chiffres deux-à-deux en partant de la droite. Ainsi en base 100, on peut utiliser la preuve par quatre-vingt-dix-neuf.

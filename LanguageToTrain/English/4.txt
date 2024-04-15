@@ -1,0 +1,6 @@
+Recent changes
+
+Web browsers can use tools called extensions. There is now a Chrome extension called Citation Needed which you can use to see if an online statement is supported by a Wikipedia article. This is a small experiment to see if Wikipedia can be used this way. Because it is a small experiment, it can only be used in Chrome in English.
+ A new Edit Recovery feature has been added to all wikis, available as a user preference. Once you enable it, your in-progress edits will be stored in your web browser, and if you accidentally close an editing window or your browser or computer crashes, you will be prompted to recover the unpublished text. Please leave any feedback on the project talk page. This was the #8 wish in the 2023 Community Wishlist Survey.
+Initial results of Edit check experiments have been published. Edit Check is now deployed as a default feature at the wikis that tested it. Let us know if you want your wiki to be part of the next deployment of Edit check. [1][2]
+Readers using the Minerva skin on mobile will notice there has been an improvement in the line height across all typography settings
